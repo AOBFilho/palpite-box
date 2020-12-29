@@ -1,0 +1,4 @@
+.wrapper {
+	@apply bg-gray-200; 
+	@apply p-4;
+}

@@ -1,0 +1,27 @@
+{
+	"name": "palpitebox",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "next start",
+		"dev": "next dev",
+		"build": "next build"
+	},
+	"keywords": [],
+	"author": "Antonio Brandão(Brandão Sistemas)",
+	"license": "MIT",
+	"dependencies": {
+		"autoprefixer": "^10.0.4",
+		"google-spreadsheet": "^3.0.14",
+		"moment": "^2.29.1",
+		"next": "^10.0.3",
+		"postcss": "^8.1.10",
+		"postcss-import": "^13.0.0",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1",
+		"react-loading": "^2.0.3",
+		"swr": "^0.3.9",
+		"tailwindcss": "^2.0.1"
+	}
+}
