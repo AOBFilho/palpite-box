@@ -37,7 +37,7 @@ SHEET_DOC_ID=id da planilha
 rapidly building custom designs.
 * [Google Sheets](https://drive.google.com) - Planilhas online do Google
 
-## Author:
+## Autor:
 
 * **Antonio Brandão** - [LinkedIn](https://www.linkedin.com/in/antonio-brandão-ba173960)
 
