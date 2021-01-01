@@ -1,6 +1,6 @@
 # PalpiteBox - Semana Fullstack Master
 
-Este projeto foi construído durante a Semana Fullstack Master do [DevPleno].
+Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com).
 
 ## Início
 
