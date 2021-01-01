@@ -12,7 +12,7 @@ const Index = () => {
 		<div>
 			<PageTitle title="Bem Vindo"></PageTitle>
 			<p className="text-center font-bold text-base mt-12">
-				O restaurante X sempre busca por atender melhor seus clientes. <br />
+				Estamos sempre buscando atender melhor nossos clientes. <br />
 				Por isso, estamos sempre abertos a ouvir a sua opinião.
 			</p>
 			<div className="text-center p-12">

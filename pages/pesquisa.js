@@ -133,7 +133,7 @@ const Pesquisa = () => {
 				Críticas e sugestões
 			</h1>
 			<p className="text-center font-bold pt-6">
-				O restaurante X sempre busca por atender melhor seus clientes. <br />
+				Estamos sempre buscando atender melhor nossos clientes. <br />
 				Por isso, estamos sempre abertos a ouvir a sua opinião.
 			</p>
 			{
