@@ -40,7 +40,3 @@ rapidly building custom designs.
 ## Autor:
 
 * **Antonio Brandão** - [LinkedIn](https://www.linkedin.com/in/antonio-brandão-ba173960)
-
-## Acknowledgments
-
-* Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com).
